@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QML/View/HomeView.qml</file>
+        <file>QML/ViewModel/Home.qml</file>
+    </qresource>
+</RCC>
